@@ -14,12 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# LEE SE WON 😉
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesewon00&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltpdnjs2000)](https://solved.ac/dltpdnjs2000/)
 
 # 💪Skills
 ### Platforms & Languages
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![C++](https://img.shields.io/badge/C++-#00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltpdnjs2000)](https://solved.ac/dltpdnjs2000/)
+### Tools
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-000000.svg?&style=for-the-badge&logo=Intellij%20IDEA&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
 
+# :mailbox_with_mail: Contacts
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sewon00.tistory.com/)](https://sewon00.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dltpdnjs2000@gmail.com)](mailto:dltpdnjs2000@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dltpdnjs2000@naver.com)](mailto:dltpdnjs2000@naver.com)
